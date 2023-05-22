@@ -4,7 +4,7 @@ Plugin Name: Custom Add to Cart Text
 Description: This plugin allows you to customize the "Add to Cart" text on your WooCommerce store.
 Version: 1.0
 Author: Santosh Baral
-Author URI: https://www.linkedin.com/in/santosh-baral-a94019233/
+Author URL: https://www.linkedin.com/in/santosh-baral-a94019233/
 */
 
 if (!defined('ABSPATH')) {
